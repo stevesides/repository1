@@ -17,5 +17,5 @@
                 $this -> average = $averageValue ;
              }
              public function
-             $name = sides
+             $name = stevesides
            }
